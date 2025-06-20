@@ -21,7 +21,7 @@ Pure CSS — no JavaScript used
 
 🚀 Live Demo
 
-👉 https://jayssmm.github.io/Skyline/
+👉 https://jayssmm.github.io/Wheel-animation/
 
 
 ---
