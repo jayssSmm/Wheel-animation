@@ -106,5 +106,4 @@ https://www.linkedin.com/in/samman-jaiswal-615995262?utm_source=share&utm_campai
 
 ---
 
-Let me know if you'd like this converted to a downloadable README.md file or want to add links to GitHub/Netlify/etc.
 
