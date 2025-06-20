@@ -29,7 +29,9 @@ Pure CSS — no JavaScript used
 📂 Project Structure
 
 wheel-animation/
+
 ├── index.html
+
 └── styles.css
 
 
@@ -54,8 +56,7 @@ transform and rotate properties
 
 🖼️ Preview
 
-(Add a screenshot or GIF of the animation here)
-
+https://github.com/user-attachments/assets/fff3bb46-8bbc-415b-87bd-9efeb5dcc7c4
 
 ---
 
